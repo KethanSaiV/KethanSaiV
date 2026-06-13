@@ -1,217 +1,154 @@
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║         KETHAN SAI VUPPALAPATI — GitHub Profile          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ╔═══════════════════════════════════════════════════════╗ -->
+<!-- ║        KETHAN SAI VUPPALAPATI — GitHub Profile        ║ -->
+<!-- ╚═══════════════════════════════════════════════════════╝ -->
 
-<!-- ═══════════════════════════════════════════════════════════
-     1. SURGICAL ROBOT BANNER
-     Save your animated SVG as assets/surgical_robot.svg in this repo
-     Then uncomment the line below and delete the placeholder
-════════════════════════════════════════════════════════════ -->
-
+<!-- ═══════════════ 1. SURGICAL ROBOT BANNER (compact) ═══════════════ -->
 <p align="center">
-  <img src="./assets/surgical_robot.svg" width="100%" alt="Surgical Robot Banner"/>
+  <img src="./assets/surgical_robot.svg" width="75%" alt="Surgical Robot Banner"/>
 </p>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     2. TYPING SVG — cycles through your research areas
-     Customize the lines= parameter with your own text
-════════════════════════════════════════════════════════════ -->
-
+<!-- ═══════════════ 2. TYPING SVG ═══════════════ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=1D9E75&center=true&vCenter=true&width=700&height=60&lines=Final-year+BME+Researcher+%40+SRIHER;Lumbar+MRI+Grading+with+Deep+Learning;CT%E2%80%93MRI+Registration+%7C+SimpleITK;Surgical+Robotics+%26+Image-Guided+AI;IEEE+WiSPNET+2026+Author;DAAD-WISE+Applicant+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1D9E75&center=true&vCenter=true&width=650&height=52&lines=Final-year+BME+Researcher+%40+SRIHER;Lumbar+MRI+Grading+%7C+ConvNeXt+V2+%2B+Grad-CAM;CT%E2%80%93MRI+Registration+%7C+SimpleITK;Surgical+Robotics+%26+Image-Guided+AI;IEEE+WiSPNET+2026+Author;DAAD-WISE+Applicant+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG"/>
   </a>
 </p>
 
+<!-- badges row -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KethanSaiV&style=flat-square&color=1d9e75&label=profile+views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=KethanSaiV&style=flat-square&color=1d9e75&label=profile+views"/>
   &nbsp;
-  <a href="https://github.com/KethanSaiV?tab=followers">
-    <img src="https://img.shields.io/github/followers/KethanSaiV?style=flat-square&color=378add&label=followers" alt="Followers"/>
-  </a>
+  <img src="https://img.shields.io/badge/IEEE-WiSPNET%202026-ff3c00?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/IEEE-WiSPNET%202026-ff3c00?style=flat-square" alt="IEEE"/>
+  <img src="https://img.shields.io/badge/Focus-Medical%20AI-1d9e75?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Medical%20AI-1d9e75?style=flat-square" alt="Medical AI"/>
+  <img src="https://img.shields.io/badge/DAAD--WISE-Applicant-378add?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Papers-4%20in%20prep-efaa27?style=flat-square"/>
 </p>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     3. ABOUT ME
-════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 3. ABOUT — clean cards, no code block ═══════════════ -->
+<table align="center" width="90%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
 
-```python
-kethan = {
-    "name"       : "Kethan Sai Vuppalapati",
-    "degree"     : "B.E. Biomedical Engineering — SRIHER '26",
-    "research"   : [
-        "Lumbar foraminal stenosis grading (ConvNeXt V2 + Grad-CAM)",
-        "CT–MRI cranial registration (SimpleITK, CPTAC-GBM)",
-        "Needle path planning for CT-guided liver ablation",
-        "Surgical robotics & image-guided interventions",
-    ],
-    "stack"      : ["PyTorch", "SimpleITK", "3D Slicer", "Streamlit", "OpenCV"],
-    "publishing" : "IEEE WiSPNET 2026 + 3 papers in prep",
-    "applying"   : "DAAD-WISE 2025 research fellowship",
-    "contact"    : "github.com/KethanSaiV",
-}
-```
+### 👤 &nbsp;About me
+🎓 &nbsp;B.E. Biomedical Engineering — **SRIHER '26**  
+🏥 &nbsp;Researcher in surgical robotics & medical AI  
+📄 &nbsp;**IEEE WiSPNET 2026** author  
+🌍 &nbsp;DAAD-WISE applicant · Chennai, India  
+📬 &nbsp;github.com/KethanSaiV  
 
----
+</td>
+<td width="50%" valign="top">
 
-<!-- ═══════════════════════════════════════════════════════════
-     4. GITHUB STATS + TOP LANGUAGES
-     Replace KethanSaiV with your exact GitHub username if different
-════════════════════════════════════════════════════════════ -->
+### 🔭 &nbsp;Currently working on
+🧠 &nbsp;Lumbar foraminal stenosis grading (ConvNeXt V2)  
+🔬 &nbsp;CT–MRI cranial registration (SimpleITK)  
+🦾 &nbsp;Needle path planning for liver ablation  
+📱 &nbsp;Streamlit + Grad-CAM diagnostic app  
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ 4. SKILLS ═══════════════ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SimpleITK-1d9e75?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/3D%20Slicer-378add?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════ 5. GITHUB STATS — upgraded layout ═══════════════ -->
+
+<h3 align="center">📊 &nbsp;GitHub Stats</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KethanSaiV&show_icons=true&theme=transparent&hide_border=true&title_color=1d9e75&icon_color=1d9e75&text_color=aaaaaa&bg_color=00000000&include_all_commits=true&count_private=true"
-    height="170"
-    alt="Kethan's GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KethanSaiV&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=1d9e75&icon_color=1d9e75&text_color=c9d1d9&bg_color=0d1117&ring_color=1d9e75&custom_title=Kethan's+GitHub+Stats" height="180"/>
   &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KethanSaiV&layout=compact&theme=transparent&hide_border=true&title_color=1d9e75&text_color=aaaaaa&bg_color=00000000&langs_count=6"
-    height="170"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KethanSaiV&layout=donut&theme=tokyonight&hide_border=true&title_color=1d9e75&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="180"/>
 </p>
-
-<!-- Streak stats -->
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=KethanSaiV&theme=transparent&hide_border=true&ring=1d9e75&fire=ff3c00&currStreakLabel=1d9e75&sideLabels=aaaaaa&dates=555555"
-    alt="GitHub streak"
-  />
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     5. 3D CONTRIBUTION CALENDAR
-     Setup: add the workflow below, then reference the output here.
-
-     Workflow file → .github/workflows/3d-contrib.yml
-     ─────────────────────────────────────────────────
-     name: 3D Contribution Graph
-     on:
-       schedule:
-         - cron: "0 18 * * *"
-       workflow_dispatch:
-     jobs:
-       build:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: actions/checkout@v3
-           - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-               USERNAME: KethanSaiV
-           - run: |
-               git config user.name github-actions
-               git config user.email github-actions@github.com
-               git add -A
-               git commit -m "Update 3D contrib graph"
-               git push
-════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
-    width="100%"
-    alt="3D contribution calendar"
-  />
+  <img src="https://streak-stats.demolab.com?user=KethanSaiV&theme=tokyonight-duo&hide_border=true&ring=1d9e75&fire=ff3c00&currStreakLabel=1d9e75&background=0d1117&stroke=1d9e7530&dates=8b949e&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="160"/>
 </p>
 
----
+<!-- activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KethanSaiV&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1d9e75&line=1d9e75&point=ff3c00&area=true&area_color=1d9e7530" width="90%"/>
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════
-     6. PINNED PROJECTS
-════════════════════════════════════════════════════════════ -->
+<br/>
 
-### 🔬 Research projects
+<!-- ═══════════════ 6. 3D CONTRIBUTION CALENDAR ═══════════════ -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution calendar"/>
+</p>
 
-| Project | Description | Stack |
-|---|---|---|
-| [lumbar-foraminal-stenosis-grader](https://github.com/KethanSaiV/lumbar-foraminal-stenosis-grader) | ConvNeXt V2 pipeline for automated MRI stenosis grading. Ordinal loss + Grad-CAM + Streamlit UI | PyTorch · OpenCV · Streamlit |
-| [ct-mri-cranial-registration](https://github.com/KethanSaiV/ct-mri-cranial-registration) | Dual-mode 3D rigid registration framework on CPTAC-GBM dataset | SimpleITK · Python |
-| [Path-Planning-for-liver-Ablation](https://github.com/KethanSaiV/Path-Planning-for-liver-Ablation) | Collision-aware needle path planning for CT-guided liver tumour ablation | Python · NumPy |
+<br/>
 
----
+<!-- ═══════════════ 7. PROJECT CARDS ═══════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════
-     7. SKILLS BADGES
-════════════════════════════════════════════════════════════ -->
+<h3 align="center">🔬 &nbsp;Research Projects</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SimpleITK-1d9e75?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/3D%20Slicer-378add?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+
+<a href="https://github.com/KethanSaiV/lumbar-foraminal-stenosis-grader">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KethanSaiV&repo=lumbar-foraminal-stenosis-grader&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=ff3c00&text_color=8b949e&description_lines_count=2" width="45%"/>
+</a>
+&nbsp;
+<a href="https://github.com/KethanSaiV/ct-mri-cranial-registration">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KethanSaiV&repo=ct-mri-cranial-registration&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=378add&text_color=8b949e&description_lines_count=2" width="45%"/>
+</a>
+
 </p>
 
----
+<p align="center">
 
-<!-- ═══════════════════════════════════════════════════════════
-     8. CONTRIBUTION SNAKE
-     Setup: add the workflow below, run it once manually,
-     then the snake auto-updates daily from the output branch.
+<a href="https://github.com/KethanSaiV/Path-Planning-for-liver-Ablation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KethanSaiV&repo=Path-Planning-for-liver-Ablation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=efaa27&text_color=8b949e&description_lines_count=2" width="45%"/>
+</a>
 
-     Workflow file → .github/workflows/snake.yml
-     ─────────────────────────────────────────────────
-     name: Generate Snake
-     on:
-       schedule:
-         - cron: "0 0 * * *"
-       workflow_dispatch:
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: KethanSaiV
-               outputs: |
-                 dist/github-snake.svg
-                 dist/github-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-════════════════════════════════════════════════════════════ -->
+</p>
+
+<br/>
+
+<!-- ═══════════════ 8. ACHIEVEMENTS ═══════════════ -->
+
+<h3 align="center">🏆 &nbsp;Achievements</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KethanSaiV&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers" width="70%"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════ 9. CONTRIBUTION SNAKE ═══════════════ -->
+
+<h3 align="center">🐍 &nbsp;Contribution Snake</h3>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/KethanSaiV/KethanSaiV/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/KethanSaiV/KethanSaiV/output/github-snake.svg"
-  />
-  <img
-    alt="Contribution snake"
-    src="https://raw.githubusercontent.com/KethanSaiV/KethanSaiV/output/github-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KethanSaiV/KethanSaiV/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KethanSaiV/KethanSaiV/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/KethanSaiV/KethanSaiV/output/github-snake.svg" width="100%"/>
 </picture>
 
----
+<br/><br/>
 
+<!-- ═══════════════ FOOTER ═══════════════ -->
 <p align="center">
-  <sub>
-    Built with PyTorch · SimpleITK · Streamlit · lots of MRI scans
-    &nbsp;·&nbsp;
-    Chennai, India 🇮🇳
-  </sub>
+  <sub>Built with PyTorch · SimpleITK · Streamlit · lots of MRI scans &nbsp;·&nbsp; Chennai, India 🇮🇳</sub>
 </p>
