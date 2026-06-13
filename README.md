@@ -2,7 +2,7 @@
 <!-- ║        KETHAN SAI VUPPALAPATI — GitHub Profile        ║ -->
 <!-- ╚═══════════════════════════════════════════════════════╝ -->
 
-<!-- ═══════════════ 1. SURGICAL ROBOT BANNER (compact) ═══════════════ -->
+<!-- ═══════════════ 1. SURGICAL ROBOT BANNER ═══════════════ -->
 <p align="center">
   <img src="./assets/surgical_robot.svg" width="75%" alt="Surgical Robot Banner"/>
 </p>
@@ -14,7 +14,6 @@
   </a>
 </p>
 
-<!-- badges row -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KethanSaiV&style=flat-square&color=1d9e75&label=profile+views"/>
   &nbsp;
@@ -29,7 +28,7 @@
 
 <br/>
 
-<!-- ═══════════════ 3. ABOUT — clean cards, no code block ═══════════════ -->
+<!-- ═══════════════ 3. ABOUT ═══════════════ -->
 <table align="center" width="90%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
@@ -48,7 +47,7 @@
 🧠 &nbsp;Lumbar foraminal stenosis grading (ConvNeXt V2)  
 🔬 &nbsp;CT–MRI cranial registration (SimpleITK)  
 🦾 &nbsp;Needle path planning for liver ablation  
-📱 &nbsp;Streamlit + Grad-CAM diagnostic app  
+🖐️ &nbsp;Gesture-controlled medical imaging workstation  
 
 </td>
 </tr>
@@ -70,8 +69,7 @@
 
 <br/>
 
-<!-- ═══════════════ 5. GITHUB STATS — upgraded layout ═══════════════ -->
-
+<!-- ═══════════════ 5. GITHUB STATS ═══════════════ -->
 <h3 align="center">📊 &nbsp;GitHub Stats</h3>
 
 <p align="center">
@@ -84,7 +82,6 @@
   <img src="https://streak-stats.demolab.com?user=KethanSaiV&theme=tokyonight-duo&hide_border=true&ring=1d9e75&fire=ff3c00&currStreakLabel=1d9e75&background=0d1117&stroke=1d9e7530&dates=8b949e&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="160"/>
 </p>
 
-<!-- activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KethanSaiV&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1d9e75&line=1d9e75&point=ff3c00&area=true&area_color=1d9e7530" width="90%"/>
 </p>
@@ -99,43 +96,40 @@
 <br/>
 
 <!-- ═══════════════ 7. PROJECT CARDS ═══════════════ -->
-
 <h3 align="center">🔬 &nbsp;Research Projects</h3>
 
 <p align="center">
-
-<a href="https://github.com/KethanSaiV/lumbar-foraminal-stenosis-grader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KethanSaiV&repo=lumbar-foraminal-stenosis-grader&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=ff3c00&text_color=8b949e&description_lines_count=2" width="45%"/>
-</a>
-&nbsp;
-<a href="https://github.com/KethanSaiV/ct-mri-cranial-registration">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KethanSaiV&repo=ct-mri-cranial-registration&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=378add&text_color=8b949e&description_lines_count=2" width="45%"/>
-</a>
-
+  <a href="https://github.com/KethanSaiV/Ordinal-Aware-Lumbar-Foraminal-Stenosis-Grading-with-Perineural-Fat-Saliency-Supervision">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KethanSaiV&repo=Ordinal-Aware-Lumbar-Foraminal-Stenosis-Grading-with-Perineural-Fat-Saliency-Supervision&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=ff3c00&text_color=8b949e" width="45%"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/KethanSaiV/CT-MRI-IMAGE-REGISTRATION">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KethanSaiV&repo=CT-MRI-IMAGE-REGISTRATION&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=378add&text_color=8b949e" width="45%"/>
+  </a>
 </p>
 
 <p align="center">
-
-<a href="https://github.com/KethanSaiV/Path-Planning-for-liver-Ablation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KethanSaiV&repo=Path-Planning-for-liver-Ablation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=efaa27&text_color=8b949e&description_lines_count=2" width="45%"/>
-</a>
-
+  <a href="https://github.com/KethanSaiV/Collision-Aware-Needle-Path-Planning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KethanSaiV&repo=Collision-Aware-Needle-Path-Planning&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=efaa27&text_color=8b949e" width="45%"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/KethanSaiV/Gesture-Controlled-Medical-Imaging-Workstation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KethanSaiV&repo=Gesture-Controlled-Medical-Imaging-Workstation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&text_color=8b949e" width="45%"/>
+  </a>
 </p>
 
 <br/>
 
 <!-- ═══════════════ 8. ACHIEVEMENTS ═══════════════ -->
-
 <h3 align="center">🏆 &nbsp;Achievements</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KethanSaiV&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers" width="70%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KethanSaiV&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="70%"/>
 </p>
 
 <br/>
 
 <!-- ═══════════════ 9. CONTRIBUTION SNAKE ═══════════════ -->
-
 <h3 align="center">🐍 &nbsp;Contribution Snake</h3>
 
 <picture>
