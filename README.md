@@ -124,11 +124,20 @@
 <h3 align="center">🏆 &nbsp;Achievements</h3>
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=KethanSaiV&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8](https://github-trophies.vercel.app/?username=KethanSaiV&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)" width="70%"/>
+  <img src="https://img.shields.io/badge/🏅%20IEEE-WiSPNET%202026%20Author-FFD700?style=for-the-badge&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔬%20Internships-4%20completed-1d9e75?style=for-the-badge&labelColor=0d1117"/>
 </p>
-
-<br/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/📄%20Papers-4%20in%20preparation-378add?style=for-the-badge&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🇩🇪%20DAAD--WISE-Fellowship%20Applicant-ff3c00?style=for-the-badge&labelColor=0d1117"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖%20Surgical-Robotics%20Research-efaa27?style=for-the-badge&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎓%20SRIHER-BME%20'26-1d9e75?style=for-the-badge&labelColor=0d1117"/>
+</p>
 <!-- ═══════════════ 9. CONTRIBUTION SNAKE ═══════════════ -->
 <h3 align="center">🐍 &nbsp;Contribution Snake</h3>
 
