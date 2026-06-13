@@ -124,7 +124,7 @@
 <h3 align="center">🏆 &nbsp;Achievements</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KethanSaiV&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="70%"/>
+  <img src="[https://github-profile-trophy.vercel.app/?username=KethanSaiV&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8](https://github-trophies.vercel.app/?username=KethanSaiV&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)" width="70%"/>
 </p>
 
 <br/>
